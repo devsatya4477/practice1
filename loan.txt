@@ -1,0 +1,5 @@
+loan :-
+
+1)purpose
+2)documents required
+
